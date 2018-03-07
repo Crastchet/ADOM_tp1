@@ -1,4 +1,4 @@
-package tp2.adom;
+package tp1.adom;
 
 import java.io.BufferedReader;
 import java.io.File;
